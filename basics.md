@@ -2,9 +2,9 @@ Building a Software as a Service (SaaS) platform involves various pages and feat
 
 [ ] **Homepage:** The first impression of your platform, highlighting key features, benefits, and calls-to-action (CTAs) to encourage sign-ups.
 
-[ ] **Sign-up/Registration:** A user-friendly registration process allowing users to create accounts and access your platform.
+[x] **Sign-up/Registration:** A user-friendly registration process allowing users to create accounts and access your platform.
 
-[ ] **Login:** Secure authentication for existing users to access their accounts.
+[x] **Login:** Secure authentication for existing users to access their accounts.
 
 [ ] **User Profile:** A page where users can view and manage their account details, settings, and preferences.
 
